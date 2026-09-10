@@ -20,7 +20,7 @@ Em paralelo, desenvolvo aplicativos mobile corporativos com Flutter e Dart para 
 
 **Automação** n8n · Webhooks · Evolution API
 
-**Outros** Git · Render · Netlify · Infraestrutura e Suporte Técnico
+**Outros** Git · Render · Infraestrutura e Suporte Técnico
 
 ---
 
