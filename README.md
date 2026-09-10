@@ -12,7 +12,7 @@ Em paralelo, desenvolvo aplicativos mobile corporativos com Flutter e Dart para 
 
 **Mobile** Flutter · Dart
 
-**Backend & Banco** C# · SQL Server · SQLite
+**Backend & Banco** Node.js · Express · C# · Firebase · SQL Server · SQLite
 
 **Desktop & ERP** Delphi · Lazarus (Object Pascal)
 
@@ -20,7 +20,7 @@ Em paralelo, desenvolvo aplicativos mobile corporativos com Flutter e Dart para 
 
 **Automação** n8n · Webhooks · Evolution API
 
-**Outros** Git · Netlify · Infraestrutura e Suporte Técnico
+**Outros** Git · Render · Netlify · Infraestrutura e Suporte Técnico
 
 ---
 
@@ -29,10 +29,10 @@ Em paralelo, desenvolvo aplicativos mobile corporativos com Flutter e Dart para 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | **Gestão Maná** 🔒 | App de jornada de campo para vendas externas, com GPS em segundo plano, check-in por geolocalização e fila offline em SQLite | Flutter · Dart · C# · SQL Server |
+| [iNeed](https://github.com/rafaellourenco10/iNeed-App) | Marketplace mobile que conecta clientes a prestadores de serviços pontuais, com backend próprio e deploy em produção | Flutter · Node.js · Firebase |
+| [EcoColeta](https://github.com/rafaellourenco10/ecocoleta_app) | App de zeladoria urbana para solicitação de coleta de descartes, migrado de PHP/MySQL para uma stack em nuvem | Flutter · Node.js · Firestore |
 | **Bot Central** 🔒 | Automação de atendimento no WhatsApp para a equipe de vendedores em campo | n8n · JavaScript · Evolution API |
 | [monitor_bitcoin](https://github.com/rafaellourenco10/monitor_bitcoin) | Monitor de preços BTC/USDT com análise técnica | Python |
-| [sistema_controle_despesas](https://github.com/rafaellourenco10/sistema_controle_despesas) | Sistema de controle de despesas | Java |
-| [carterinha_estudante](https://github.com/rafaellourenco10/carterinha_estudante) | Formulário para gerar carteirinha de estudante | HTML |
 
 🔒 Projetos corporativos — código privado
 
