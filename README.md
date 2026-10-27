@@ -18,11 +18,11 @@ Em paralelo, desenvolvo aplicativos mobile corporativos com Flutter e Dart para 
 
 **Desktop & ERP** Delphi · Lazarus (Object Pascal)
 
-**Web** React · TypeScript · JavaScript · HTML/CSS · Python
+**Web** React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS · Vite · Python
 
 **Automação** n8n · Webhooks · Evolution API
 
-**Outros** Git · Render · Infraestrutura e Suporte Técnico
+**Outros** Git · Render · Vercel · Infraestrutura e Suporte Técnico
 
 ---
 
@@ -34,6 +34,7 @@ Em paralelo, desenvolvo aplicativos mobile corporativos com Flutter e Dart para 
 | **Gestão Maná** 🔒 | App de jornada de campo para vendas externas, com GPS em segundo plano, check-in por geolocalização e fila offline em SQLite | Flutter · Dart · C# · SQL Server |
 | [iNeed](https://github.com/rafaellourenco10/iNeed-App) | Marketplace mobile que conecta clientes a prestadores de serviços pontuais, com backend próprio e deploy em produção | Flutter · Node.js · Firebase |
 | [EcoColeta](https://github.com/rafaellourenco10/ecocoleta_app) | App de zeladoria urbana para solicitação de coleta de descartes, migrado de PHP/MySQL para uma stack em nuvem · [landing page](https://ecocoleta-app.netlify.app/) | Flutter · Node.js · Firestore |
+| [SelfieMovie](https://github.com/rafaellourenco10/selfiemovie) | App web que coloca o rosto do usuário em clipes de vídeo com IA a partir de uma selfie, com sistema de créditos, planos e consentimento conforme a LGPD · [demo](https://projeto-ia-eta.vercel.app) | Vite · Tailwind CSS · JavaScript · Vitest |
 | [Companheiro GLP-1](https://github.com/rafaellourenco10/app_glp-1) | Diário de acompanhamento para quem usa canetas GLP-1: lembrete da aplicação, proteína, sintomas, peso e treinos de força | Flutter · Riverpod · Supabase |
 | [NutriCasa](https://github.com/rafaellourenco10/app_gestao_alimentar) | Sugere receitas com os ingredientes da despensa, com calorias e macros calculados pela Tabela TACO | Flutter · Dart |
 | [Diário Fit](https://github.com/rafaellourenco10/app_gestao_muscular) | Treino funcional e de musculação: cronograma semanal, cronômetro e acompanhamento da evolução | Flutter · Dart |
